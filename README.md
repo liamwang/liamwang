@@ -1,9 +1,13 @@
 <table>
-  <tr><td colspan="2" align="center"><b>请我喝杯咖啡</b></td></tr>
-  <tr>
-    <td><img src="https://geekgist.com/img/wepay-qr.png" style="display:inline-block; margin:15px;" /></td>
-    <td><img src="https://geekgist.com/img/alipay-qr.png" style="display:inline-block; margin:15px;" /></td>
-  </tr>
+  <thead>
+    <tr><td colspan="2" align="center" style="font-size:24px;">请我喝杯咖啡</td></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><img src="https://geekgist.com/img/wepay-qr.png" style="display:inline-block; margin:15px;" /></td>
+      <td align="center"><img src="https://geekgist.com/img/alipay-qr.png" style="display:inline-block; margin:15px;" /></td>
+    </tr>
+  </tbody>
 </table>
 
 <!--
