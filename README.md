@@ -1,8 +1,10 @@
-<h1 style="text-align:center;">请我喝杯咖啡</h1>
-<p style="text-align:center;">
-  <img src="https://geekgist.com/img/wepay-qr.png" style="display:inline-block; margin:10px;" />
-  <img src="https://geekgist.com/img/alipay-qr.png" style="display:inline-block; margin:10px;" />
-</p>
+<table>
+  <tr><td colspan="2" align="center"><b>请我喝杯咖啡</b></td></tr>
+  <tr>
+    <td><img src="https://geekgist.com/img/wepay-qr.png" style="display:inline-block; margin:15px;" /></td>
+    <td><img src="https://geekgist.com/img/alipay-qr.png" style="display:inline-block; margin:15px;" /></td>
+  </tr>
+</table>
 
 <!--
 **liamwang/liamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
