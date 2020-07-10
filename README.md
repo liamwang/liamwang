@@ -1,4 +1,8 @@
-![](https://img2020.cnblogs.com/blog/191097/202007/191097-20200710091013544-1335219258.png)
+<h1 style="text-align:center;">请我喝杯咖啡</h1>
+<p style="text-align:center;">
+  <img src="https://geekgist.com/img/wepay-qr.png" style="display:inline-block; margin:10px;" />
+  <img src="https://geekgist.com/img/alipay-qr.png" style="display:inline-block; margin:10px;" />
+</p>
 
 <!--
 **liamwang/liamwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
